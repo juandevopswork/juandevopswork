@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting my azure Administrator Associate certification
-- 🌱 I’m currently learning Splunk
+- 🌱 I’m currently learning Python and Splunk
 - 👯 I’m looking to collaborate on Linux and Network Administration
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
